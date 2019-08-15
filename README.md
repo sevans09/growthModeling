@@ -1,2 +1,2 @@
 # growthModeling
-Used Facebook's Prophet API to predict staffing needs.
+Used Facebook's Prophet API to forecast staffing needs.
